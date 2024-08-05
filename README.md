@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/25febd77-778f-44a2-bdae-48bafee061e8)
-
-
 # Recipe Search Mobile App
 
 ## Overview
